@@ -53,3 +53,4 @@ C:\Users\PortilloA\Documents\Exercise02\Exercise02\obj\Debug\net9.0\refint\Exerc
 C:\Users\PortilloA\Documents\Exercise02\Exercise02\obj\Debug\net9.0\Exercise02.pdb
 C:\Users\PortilloA\Documents\Exercise02\Exercise02\obj\Debug\net9.0\Exercise02.genruntimeconfig.cache
 C:\Users\PortilloA\Documents\Exercise02\Exercise02\obj\Debug\net9.0\ref\Exercise02.dll
+C:\Users\PortilloA\Documents\Exercise02\Exercise02\obj\Debug\net9.0\Exercise02.sourcelink.json
